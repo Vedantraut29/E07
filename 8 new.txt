@@ -114,3 +114,9 @@ public class MainActivity extends AppCompatActivity {
         mediaPlayer=null;
     }
 }
+
+
+
+gradle properties
+
+android.nonFinalResIds=false 
